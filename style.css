@@ -100,8 +100,8 @@ body {
 }
 
 .op {
-  background-image: url(./images/op.png);
-  background-repeat: no-repeat;
+  background-image: url("http://fr.payplay.fm/258075300-ariana-grande-photo.jpg");
+  background-repeat: repeat;
   background-size: contain;
 }
 
