@@ -88,8 +88,8 @@ body {
 }
 
 .cr {
-  background-image: url(./images/cr.png);
-  background-repeat: no-repeat;
+  background-image: url("http://davidatlanta.com/wp-content/uploads/2012/09/CherLloyd_SticksStones_Cover_F_5x5.jpg");
+  background-repeat: repeat;
   background-size: contain;
 }
 
