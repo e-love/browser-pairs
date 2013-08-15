@@ -106,19 +106,19 @@ body {
 }
 
 .ns {
-  background-image: url(./images/ns.png);
+  background-image: url("http://userserve-ak.last.fm/serve/300x300/90912117.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .tb {
-  background-image: url(./images/tb.png);
+  background-image: url("http://www.clickmusic.com/images/uploads/little-mix-wings300.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .fm {
-  background-image: url(./images/fm.png);
+  background-image: url("http://www.asnclassifieds.com/im/images-301/2158408-rrrr.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
