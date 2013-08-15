@@ -82,8 +82,8 @@ body {
 }
 
 .fx {
-  background-image: url(./images/fx.png);
-  background-repeat: no-repeat;
+  background-image: url("http://i.ebayimg.com/00/s/NTQ2WDU0Ng==/$T2eC16RHJGUFFh9EojdmBSDFpl1ToQ~~48_35.JPG");
+  background-repeat: repeat;
   background-size: contain;
 }
 
