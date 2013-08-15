@@ -94,7 +94,7 @@ body {
 }
 
 .sf {
-  background-image: url(./images/sf.png);
+  background-image: url("http://blogs.babble.com/pets/files/2012/05/Pug-300x300.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
